@@ -1,5 +1,5 @@
 package impl;
-
+//:导入相关jar包
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
